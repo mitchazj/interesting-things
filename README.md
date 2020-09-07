@@ -28,6 +28,21 @@ https://tenancy.dev/docs/tenancy/1.x/tenant-setup - library / group of libraries
 https://github.com/baopham/laravel-dynamodb - use AWS DynamoDB with Laravel applications.
  - https://www.dynamodbguide.com/the-dynamo-paper/ also see this guide
  - https://www.dynamodbbook.com/ and this book
+ 
+https://laravelpackage.com/09-routing.html - building PHP packages for Laravel
+https://github.com/Jeroen-G/laravel-packager - a CLI to template Laravel Packages
+ 
+## Flutter
+- https://flutterawesome.com/easy-to-use-podcast-player-app-written-in-flutter-and-dart/
+- https://flutterawesome.com/a-git-services-including-github-built-with-flutter/
+- https://flutterawesome.com/a-beautiful-task-planner-app-design-made-in-flutter/
+- https://flutterawesome.com/twitter-clone-using-flutter-framework/
+- https://flutterawesome.com/e-commerce-app-built-in-flutter/
+- https://flutterawesome.com/smart-course-app-built-in-flutter/
+A sample of example flutter applications
+
+# React Native
+https://github.com/vadimdemedes/tailwind-rn
 
 ## Api / Project
 https://thispersondoesnotexist.com/ - This could be useful to power an API that generates avatars for email addresses when building / testing user interfaces in apps. I'm thinking that a call could be made to an API with a name / email and the API would hash it, check a DB to see if a profile has been created for it, and then if it doesn't exist it would create the image using this website OR if it does exist it would return a link to the cached image. If the image is still being created, it could use Vercel or Netlify with automatic deploys to serve the images?
@@ -41,3 +56,12 @@ https://github.com/jaredpalmer/minimum-viable-saas - incredibly compact SaaS dem
 https://formium.io/ - looks like a VERY interesting hosted form solution. Also website design looks nice.
 
 https://lottiefiles.com/getting-started - community / inspiration site built around Lottie and Adobe After Effects.
+
+## Hosting
+https://www.gigalixir.com/ - hosted elixir
+
+## Blog
+https://jenssegers.com/
+https://andrew.wang-hoyer.com/experiments/fractals/
+
+
