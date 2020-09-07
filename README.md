@@ -61,7 +61,8 @@ https://lottiefiles.com/getting-started - community / inspiration site built aro
 https://www.gigalixir.com/ - hosted elixir
 
 ## Blog
-https://jenssegers.com/
-https://andrew.wang-hoyer.com/experiments/fractals/
+- https://jenssegers.com/
+- https://andrew.wang-hoyer.com/experiments/fractals/
 
-
+## Posts
+- https://hugozap.com/posts/how-to-finish-your-side-project/
