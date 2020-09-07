@@ -30,3 +30,5 @@ https://github.com/jaredpalmer/minimum-viable-saas - incredibly compact SaaS dem
 
 ## Services
 https://formium.io/ - looks like a VERY interesting hosted form solution. Also website design looks nice.
+
+https://lottiefiles.com/getting-started - community / inspiration site built around Lottie and Adobe After Effects.
