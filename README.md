@@ -29,8 +29,14 @@ https://github.com/baopham/laravel-dynamodb - use AWS DynamoDB with Laravel appl
  - https://www.dynamodbguide.com/the-dynamo-paper/ also see this guide
  - https://www.dynamodbbook.com/ and this book
  
+https://github.com/mpociot/versionable - make models versionable and keep a history of changes within them.
+ 
 https://laravelpackage.com/09-routing.html - building PHP packages for Laravel
 https://github.com/Jeroen-G/laravel-packager - a CLI to template Laravel Packages
+
+https://github.com/laravel-frontend-presets/tall - the TALL preset, great setup for new projects.
+
+https://beyondco.de/docs/laravel-websockets/getting-started/introduction - Use websockets with laravel
  
 ## Flutter
 - https://flutterawesome.com/easy-to-use-podcast-player-app-written-in-flutter-and-dart/
@@ -41,8 +47,11 @@ https://github.com/Jeroen-G/laravel-packager - a CLI to template Laravel Package
 - https://flutterawesome.com/smart-course-app-built-in-flutter/
 A sample of example flutter applications
 
-# React Native
+## React Native
 https://github.com/vadimdemedes/tailwind-rn
+
+## SwiftUI
+https://fuckingswiftui.com/ - great resource for learning SwiftUI
 
 ## Api / Project
 https://thispersondoesnotexist.com/ - This could be useful to power an API that generates avatars for email addresses when building / testing user interfaces in apps. I'm thinking that a call could be made to an API with a name / email and the API would hash it, check a DB to see if a profile has been created for it, and then if it doesn't exist it would create the image using this website OR if it does exist it would return a link to the cached image. If the image is still being created, it could use Vercel or Netlify with automatic deploys to serve the images?
@@ -59,6 +68,9 @@ https://lottiefiles.com/getting-started - community / inspiration site built aro
 
 ## Hosting
 https://www.gigalixir.com/ - hosted elixir
+
+## MacOS apps
+https://github.com/turkenh/KubeContext - manage Kubernetes contexts
 
 ## Blog
 - https://jenssegers.com/
