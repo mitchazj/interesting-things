@@ -17,11 +17,17 @@ https://github.com/jaredpalmer/razzle - low-config react SSR setup. Also check d
 
 https://blitzjs.com/docs/getting-started - Fullstack Javascript with Next.js + ORM, inspired by Ruby on Rails
 
+https://swr.vercel.app/getting-started - data-fetching library within React, using hooks.
+
 ## Components
 https://draftjs.org/?ref=producthunt - Rich text editor in React
 
 ## Laravel
 https://tenancy.dev/docs/tenancy/1.x/tenant-setup - library / group of libraries that makes handling complex, real-world multi-tenancy scenarios in Laravel easier.
+
+https://github.com/baopham/laravel-dynamodb - use AWS DynamoDB with Laravel applications.
+ - https://www.dynamodbguide.com/the-dynamo-paper/ also see this guide
+ - https://www.dynamodbbook.com/ and this book
 
 ## Api / Project
 https://thispersondoesnotexist.com/ - This could be useful to power an API that generates avatars for email addresses when building / testing user interfaces in apps. I'm thinking that a call could be made to an API with a name / email and the API would hash it, check a DB to see if a profile has been created for it, and then if it doesn't exist it would create the image using this website OR if it does exist it would return a link to the cached image. If the image is still being created, it could use Vercel or Netlify with automatic deploys to serve the images?
