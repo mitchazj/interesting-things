@@ -1,6 +1,7 @@
 # Interesting Things
 
-A collection of things that make me go 🤔 Currently quite disorganized, pay no attention to the order or selection of things atm
+A collection of things that make me go "🤔"
+Currently quite disorganized, pay no attention to the order or selection of things atm
 
 ## Vercel
 https://github.com/vercel/release - This project generates GitHub releases and populates it with commits since the last release. Looks like quite a useful tool. You can install it globally to the CLI and publish new releases with `release major`, `release minor`, `release patch`, and `release pre`.
